@@ -1,0 +1,58 @@
+.container .company {
+    margin-top:100px;
+}
+
+.container .company .title {
+    font-family: "NanumSquare_acEB";
+    font-size: 40px;
+}
+
+.container .company .list {
+    margin-top:20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container .company .item {
+    width: 502px;
+    height: 648px;
+    overflow-y:hidden;
+}
+
+.container .company .item:nth-child(1) {
+    border-radius: 3px;
+    background-color: #ddeefe;
+    margin-right:60px;
+}
+
+.container .company .item .content {
+    margin-top: 40px;
+    margin-left: 40px;
+    width:422px;
+    font-family: NanumSquare_acL;
+}
+
+.container .company .item .title {
+    font-size: 29px;
+    font-family: Aritta-Bold;
+}
+
+.container .company .item .description {
+    font-size: 18px;
+    margin-top:10px;
+}
+
+.container .company .item .more {
+    margin-top:30px;
+}
+
+.container .company .item img {
+    height: 431px;
+    margin-top:30px;
+    border-radius: 5px;
+}
+
+.container .company .item:nth-child(2) {
+    border-radius: 3px;
+    background-color: #d9f6f1;
+}

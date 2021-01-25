@@ -1,0 +1,55 @@
+.container .personal {
+    margin-top:100px;
+}
+
+.container .personal .title {
+    font-family: "NanumSquare_acEB";
+    font-size: 40px;
+}
+
+.container .personal .item {
+    display: flex;
+    font-family: NanumSquare_acL;
+}
+
+.container .personal .item .title {
+    font-size: 29px;
+}
+
+.container .personal .item .spec {
+    padding: 20px 27px 20px 20px;
+    border-radius: 3px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.09);
+    height: 229px;
+    position: relative;
+    left: -50px;
+    top: 10px;
+}
+
+.container .personal .item .spec .description {
+    margin-top: 10px;
+}
+
+.container .personal .item .spec .link {
+    margin-top: 20px;
+}
+
+.container .personal .item img {
+    width:700px;
+}
+
+.container .personal .item .description {
+    width: 390px;
+}
+
+.container .personal .item {
+    margin-top:20px;
+}
+
+.container .personal .item:nth-child(2) .spec {
+    background-color:#FFFFE0;
+}
+
+.container .personal .item:nth-child(3) .spec {
+    background-color:#FFE0FF;
+}

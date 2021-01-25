@@ -1,0 +1,49 @@
+.container .personal {
+    margin-top:100px;
+
+    .title {
+        font-family: "NanumSquare_acEB";
+        font-size: 40px;
+    }
+    
+    .item:nth-child(2) .spec {
+        background-color:#FFFFE0;
+    }
+    
+    .item:nth-child(3) .spec {
+        background-color:#FFE0FF;
+    }
+
+    .item {
+        display: flex;
+        font-family: NanumSquare_acL;
+        margin-top:20px;
+
+        .title {
+            font-size: 29px;
+        }
+
+        .spec {
+            padding: 20px 27px 20px 20px;
+            border-radius: 3px;
+            box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.09);
+            height: 229px;
+            position: relative;
+            left: -50px;
+            top: 10px;
+
+            .description {
+                margin-top: 10px;
+                width: 390px;
+            }
+
+            .link {
+                margin-top: 20px;
+            }
+        }
+
+        img {
+            width:700px;
+        }
+    }
+}

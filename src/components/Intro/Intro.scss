@@ -1,0 +1,39 @@
+.container .intro .profile {
+  display: flex;
+  justify-content: space-between;
+
+  .text {
+    width: 715px;
+    font-family:"NanumSquare_acEB";
+    font-size:42px;
+    margin-right:104px;
+  }
+  
+  .text div:nth-child(2) {
+    margin-top:10px;
+  }
+
+  .image {
+    position: relative;
+
+    img {
+      position:absolute;
+      top:5px;
+      left:5px;
+      width: 240px;
+      height: 240px;
+      z-index:10;
+      border-radius: 5px;
+    }
+
+    .gradient {
+      position:relative;
+      width: 240px;
+      height: 240px;
+      left:-5px;
+      top:-5px;
+      border-radius: 5px;
+      background-image: linear-gradient(to top, #b21aa1, #e92577, #e92577);
+    }
+  }
+}

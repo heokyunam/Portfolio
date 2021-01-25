@@ -1,0 +1,57 @@
+.container .company {
+    margin-top:100px;
+
+    .title {
+        font-family: "NanumSquare_acEB";
+        font-size: 40px;
+    }
+
+    .list {
+        margin-top:20px;
+        display: flex;
+        justify-content: space-around;
+
+        .item {
+            width: 502px;
+            height: 648px;
+            overflow-y:hidden;
+
+            .content {
+                margin-top: 40px;
+                margin-left: 40px;
+                width:422px;
+                font-family: NanumSquare_acL;
+            }
+
+            .title {
+                font-size: 29px;
+                font-family: Aritta-Bold;
+            }
+
+            .description {
+                font-size: 18px;
+                margin-top:10px;
+            }
+
+            .more {
+                margin-top:30px;
+            }
+
+            img {
+                height: 431px;
+                margin-top:30px;
+                border-radius: 5px;
+            }
+        }
+
+        .item:nth-child(1) {
+            border-radius: 3px;
+            background-color: #ddeefe;
+            margin-right:60px;
+        }
+        .item:nth-child(2) {
+            border-radius: 3px;
+            background-color: #d9f6f1;
+        }
+    }
+}
