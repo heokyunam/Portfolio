@@ -1,0 +1,52 @@
+.container .history {
+    margin-top: 100px;
+
+    .title {
+        font-family: "NanumSquare_acEB";
+        font-size: 40px;
+    }
+
+    .item {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+
+        img {
+            width: 200px;
+            height: 200px;
+            border-radius: 5px;            
+        }
+
+        .description {
+            font-family: NanumSquare_acL;
+            margin-right: 400px;
+            padding-left: 20px;
+        }
+
+        .title {
+            font-size: 30px;
+            margin-bottom: 10px;
+        }
+
+        .sub {
+            margin-bottom: 5px;
+        }
+    }
+
+    .item:nth-child(2n+1) {
+        margin-left: 400px;
+        flex-direction:row-reverse;
+
+        .description {
+            margin-right: 0px;
+        }
+    }
+
+    .outro {
+        font-family: "NanumSquare_acEB";
+        font-size: 40px;
+        text-align: center;
+        margin-top: 500px;
+        margin-bottom: 500px;
+    }
+}
