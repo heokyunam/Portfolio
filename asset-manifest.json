@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4595c46c.chunk.css",
+    "main.js": "/portfolio/static/js/main.de6ef514.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.de6ef514.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.d76411a0.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.d76411a0.js.map",
+    "static/js/2.810966b5.chunk.js": "/portfolio/static/js/2.810966b5.chunk.js",
+    "static/js/2.810966b5.chunk.js.map": "/portfolio/static/js/2.810966b5.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.4595c46c.chunk.css.map": "/portfolio/static/css/main.4595c46c.chunk.css.map",
+    "static/js/2.810966b5.chunk.js.LICENSE.txt": "/portfolio/static/js/2.810966b5.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/portfolio/static/media/NanumSquare_acR.4e7e79f4.ttf",
+    "static/media/Employ.230269ee.jpg": "/portfolio/static/media/Employ.230269ee.jpg",
+    "static/media/KTOTM.ed50e28a.jpg": "/portfolio/static/media/KTOTM.ed50e28a.jpg",
+    "static/media/Kanban.01cbd683.png": "/portfolio/static/media/Kanban.01cbd683.png",
+    "static/media/LGU_DD9.2ad9be89.png": "/portfolio/static/media/LGU_DD9.2ad9be89.png",
+    "static/media/Logo.e4495ed8.svg": "/portfolio/static/media/Logo.e4495ed8.svg",
+    "static/media/Now.4c1835f5.jpg": "/portfolio/static/media/Now.4c1835f5.jpg",
+    "static/media/University.8b5cf7d5.jpg": "/portfolio/static/media/University.8b5cf7d5.jpg",
+    "static/media/chatting.7503a27f.png": "/portfolio/static/media/chatting.7503a27f.png",
+    "static/media/profile.f074203b.jpg": "/portfolio/static/media/profile.f074203b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d76411a0.js",
+    "static/js/2.810966b5.chunk.js",
+    "static/css/main.4595c46c.chunk.css",
+    "static/js/main.de6ef514.chunk.js"
+  ]
+}
